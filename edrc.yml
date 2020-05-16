@@ -3,3 +3,4 @@ eagle:
   drc:
     - file: eagle/PGA-103+ LNA Mod2.brd
       dru: default
+    - file: eagle/PGA-103+ LNA Mod2.sch
